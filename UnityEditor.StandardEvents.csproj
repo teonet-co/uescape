@@ -307,6 +307,9 @@
     <Reference Include="SyntaxTree.VisualStudio.Unity.Bridge">
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
+    <Reference Include="NSubstitute">
+      <HintPath>C:/Users/KirMitrich/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.2d.common@1.0.10-preview/Tests/Editor/Lib/NSubstitute/NSubstitute.dll</HintPath>
+    </Reference>
     <Reference Include="mscorlib">
       <HintPath>D:\Soft\Unity\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api\mscorlib.dll</HintPath>
     </Reference>
@@ -344,6 +347,7 @@
     <None Include="Assets\StrangeEngine\Materials\Sprites-DiffuseMobile.shader" />
     <None Include="Assets\StrangeEngine\Materials\Sprites-DiffuseMobile2.shader" />
     <None Include="Assets\StrangeEngine\Materials\WaveEffectShader.shader" />
+    <None Include="Packages\com.unity.2d.animation\Editor\MeshModule\Resources\MeshModule-GUITextureClip.shader" />
     <None Include="Packages\com.unity.package-manager-ui\Editor\Resources\Styles\Main_Dark.uss" />
     <None Include="Packages\com.unity.package-manager-ui\Editor\Resources\Styles\Main_Light.uss" />
     <None Include="Packages\com.unity.package-manager-ui\Editor\Resources\Templates\Alert.uxml" />

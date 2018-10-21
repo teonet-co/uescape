@@ -301,6 +301,34 @@
       <Project>{07A21C90-D344-AE1A-8456-9910C203B41A}</Project>
       <Name>Unity.TextMeshPro</Name>
     </ProjectReference>
+    <ProjectReference Include="Unity.2D.Animation.Runtime.csproj">
+      <Project>{40344580-C9DB-975C-B85C-99EB2D800146}</Project>
+      <Name>Unity.2D.Animation.Runtime</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.InternalAPIEngineBridge.001.csproj">
+      <Project>{569BEDA1-1A48-C20A-F481-9D86637B1749}</Project>
+      <Name>Unity.InternalAPIEngineBridge.001</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.2D.Common.Runtime.csproj">
+      <Project>{87F4AEA2-58CB-11A7-7160-A6BBEE1F4F64}</Project>
+      <Name>Unity.2D.Common.Runtime</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.2D.Animation.Editor.csproj">
+      <Project>{300938C9-B65E-A774-1114-72A9EB329BA7}</Project>
+      <Name>Unity.2D.Animation.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.2D.Triangle.Runtime.csproj">
+      <Project>{4ABDFC88-FD2B-E27D-35CF-CBAA983912D2}</Project>
+      <Name>Unity.2D.Triangle.Runtime</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.2D.Common.Editor.csproj">
+      <Project>{7F953B55-6180-0271-00DA-964C88E5D5EE}</Project>
+      <Name>Unity.2D.Common.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.InternalAPIEditorBridge.001.csproj">
+      <Project>{098A6949-2B23-032F-1E56-89CC7C397C89}</Project>
+      <Name>Unity.InternalAPIEditorBridge.001</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\StrangeEngine\Scripts\Camera\CameraMovement.cs" />
@@ -370,6 +398,7 @@
     <None Include="Assets\StrangeEngine\Materials\Sprites-DiffuseMobile.shader" />
     <None Include="Assets\StrangeEngine\Materials\Sprites-DiffuseMobile2.shader" />
     <None Include="Assets\StrangeEngine\Materials\WaveEffectShader.shader" />
+    <None Include="Packages\com.unity.2d.animation\Editor\MeshModule\Resources\MeshModule-GUITextureClip.shader" />
     <None Include="Packages\com.unity.package-manager-ui\Editor\Resources\Styles\Main_Dark.uss" />
     <None Include="Packages\com.unity.package-manager-ui\Editor\Resources\Styles\Main_Light.uss" />
     <None Include="Packages\com.unity.package-manager-ui\Editor\Resources\Templates\Alert.uxml" />
