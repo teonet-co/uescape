@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - WeaponSelection
+  - MobileJoystick2
+  - Walls
+  - Enemy
+  - Bullet
+  - Shell
+  - Ammo
+  - EnemyBullet
+  - PlayerWeapon
+  - Arrow
+  - Missile
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enemy
+  - 
+  - Walls
+  - Bullet
+  - 
+  - EnemyBullet
+  - Shells
+  - Arrow
+  - Cartridges
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

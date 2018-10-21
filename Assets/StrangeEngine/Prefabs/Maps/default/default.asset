@@ -1,0 +1,309 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e08c420979854e642bf70bdb438198a8, type: 3}
+  m_Name: default
+  m_EditorClassIdentifier: 
+  properties:
+    customMap: 1
+    surfaceIndexToSpawnPlayer: 1
+    worldGenerationType: 1
+    groundTile: {fileID: 11400000, guid: b51d7d192ed08e44b97cbb0530658cea, type: 2}
+    wallTile: {fileID: 11400000, guid: aedbee05bf58cf24d94308b9c85ba452, type: 2}
+    burnedGroundTile: {fileID: 11400000, guid: 7936c1c50481f434b857fe031260021a, type: 2}
+    wallChance: 46
+    filled: 4
+    empty: 4
+    repeatCount: 2
+    tileMapSize: {x: 50, y: 50, z: 0}
+    wallsHealth: 33
+    Enemies: []
+    enemyAmount: 0
+    tileAmount: 0
+    tileSize: 1
+    maxPersuitingEnemies: 2
+    maxActiveEnemies: 2
+    chanceUp: 0
+    chanceRight: 0
+    chanceDown: 0
+    ExtraWallsX: 0
+    ExtraWallsY: 0
+    extraSurface: []
+    spawner:
+    - spawnObjectName: 1
+      enableSpawner: 1
+      _Map: {fileID: 0}
+      _tileMapName: 
+      _spawnObject: 0
+      targetSurfaceIndex: 1
+      layerToAvoid:
+        serializedVersion: 2
+        m_Bits: 0
+      tileSize: {x: 0, y: 0}
+      objectToSpawn: {fileID: 1037106101044600, guid: b88e8a87e927dfe4281fcb2c92224e23,
+        type: 2}
+      tileToSpawn: {fileID: 0}
+      enableRandomSpawn: 0
+      RepeateOptions: 0
+      addForce: 0
+      forceMode: 0
+      force: 0
+      amountOfObjectsToSpawn: 10
+      timeToSpawn: 0
+      spawnerRadius: 0
+      randomTimeToSpawn: {x: 0, y: 0}
+      timesToRepeat: 0
+      amountOfObjectsToRespawn: 0
+      repeatTimer: 0
+      randomRepeat: 0
+      randomRepeatTimer: {x: 0, y: 0}
+    - spawnObjectName: 2
+      enableSpawner: 1
+      _Map: {fileID: 0}
+      _tileMapName: 
+      _spawnObject: 0
+      targetSurfaceIndex: 1
+      layerToAvoid:
+        serializedVersion: 2
+        m_Bits: 0
+      tileSize: {x: 0, y: 0}
+      objectToSpawn: {fileID: 1037106101044600, guid: 6759027fe185fd849bb7ee4cf842a16f,
+        type: 2}
+      tileToSpawn: {fileID: 0}
+      enableRandomSpawn: 0
+      RepeateOptions: 0
+      addForce: 0
+      forceMode: 0
+      force: 0
+      amountOfObjectsToSpawn: 5
+      timeToSpawn: 0
+      spawnerRadius: 0
+      randomTimeToSpawn: {x: 0, y: 0}
+      timesToRepeat: 0
+      amountOfObjectsToRespawn: 0
+      repeatTimer: 0
+      randomRepeat: 0
+      randomRepeatTimer: {x: 0, y: 0}
+    - spawnObjectName: 3
+      enableSpawner: 1
+      _Map: {fileID: 0}
+      _tileMapName: 
+      _spawnObject: 0
+      targetSurfaceIndex: 1
+      layerToAvoid:
+        serializedVersion: 2
+        m_Bits: 0
+      tileSize: {x: 0, y: 0}
+      objectToSpawn: {fileID: 1037106101044600, guid: 3479ccdfd9e9519428752b7058062ad3,
+        type: 2}
+      tileToSpawn: {fileID: 0}
+      enableRandomSpawn: 0
+      RepeateOptions: 0
+      addForce: 0
+      forceMode: 0
+      force: 0
+      amountOfObjectsToSpawn: 5
+      timeToSpawn: 0
+      spawnerRadius: 0
+      randomTimeToSpawn: {x: 0, y: 0}
+      timesToRepeat: 0
+      amountOfObjectsToRespawn: 0
+      repeatTimer: 0
+      randomRepeat: 0
+      randomRepeatTimer: {x: 0, y: 0}
+    - spawnObjectName: 4
+      enableSpawner: 1
+      _Map: {fileID: 0}
+      _tileMapName: 
+      _spawnObject: 0
+      targetSurfaceIndex: 1
+      layerToAvoid:
+        serializedVersion: 2
+        m_Bits: 0
+      tileSize: {x: 0, y: 0}
+      objectToSpawn: {fileID: 1037106101044600, guid: 58c9f16518252c84dbcaabbefb251750,
+        type: 2}
+      tileToSpawn: {fileID: 0}
+      enableRandomSpawn: 0
+      RepeateOptions: 0
+      addForce: 0
+      forceMode: 0
+      force: 0
+      amountOfObjectsToSpawn: 5
+      timeToSpawn: 2
+      spawnerRadius: 0
+      randomTimeToSpawn: {x: 0, y: 0}
+      timesToRepeat: 0
+      amountOfObjectsToRespawn: 0
+      repeatTimer: 0
+      randomRepeat: 0
+      randomRepeatTimer: {x: 0, y: 0}
+    - spawnObjectName: raven
+      enableSpawner: 1
+      _Map: {fileID: 0}
+      _tileMapName: 
+      _spawnObject: 0
+      targetSurfaceIndex: 1
+      layerToAvoid:
+        serializedVersion: 2
+        m_Bits: 0
+      tileSize: {x: 0, y: 0}
+      objectToSpawn: {fileID: 1809955658670496, guid: e6d90381de854774ebfd3055a244f2af,
+        type: 2}
+      tileToSpawn: {fileID: 0}
+      enableRandomSpawn: 0
+      RepeateOptions: 0
+      addForce: 0
+      forceMode: 0
+      force: 0
+      amountOfObjectsToSpawn: 5
+      timeToSpawn: 2
+      spawnerRadius: 0
+      randomTimeToSpawn: {x: 0, y: 0}
+      timesToRepeat: 0
+      amountOfObjectsToRespawn: 0
+      repeatTimer: 0
+      randomRepeat: 0
+      randomRepeatTimer: {x: 0, y: 0}
+    - spawnObjectName: p1
+      enableSpawner: 1
+      _Map: {fileID: 0}
+      _tileMapName: 
+      _spawnObject: 0
+      targetSurfaceIndex: 1
+      layerToAvoid:
+        serializedVersion: 2
+        m_Bits: 0
+      tileSize: {x: 0, y: 0}
+      objectToSpawn: {fileID: 1680002771401006, guid: 1937d586fa321e149b47745d16327ea0,
+        type: 2}
+      tileToSpawn: {fileID: 0}
+      enableRandomSpawn: 0
+      RepeateOptions: 0
+      addForce: 0
+      forceMode: 0
+      force: 0
+      amountOfObjectsToSpawn: 5
+      timeToSpawn: 0
+      spawnerRadius: 0
+      randomTimeToSpawn: {x: 0, y: 0}
+      timesToRepeat: 0
+      amountOfObjectsToRespawn: 0
+      repeatTimer: 0
+      randomRepeat: 0
+      randomRepeatTimer: {x: 0, y: 0}
+    - spawnObjectName: p2
+      enableSpawner: 1
+      _Map: {fileID: 0}
+      _tileMapName: 
+      _spawnObject: 0
+      targetSurfaceIndex: 1
+      layerToAvoid:
+        serializedVersion: 2
+        m_Bits: 0
+      tileSize: {x: 0, y: 0}
+      objectToSpawn: {fileID: 1762410191131126, guid: c0d5d4b5e8b437f4292436705c8f6a94,
+        type: 2}
+      tileToSpawn: {fileID: 0}
+      enableRandomSpawn: 0
+      RepeateOptions: 0
+      addForce: 0
+      forceMode: 0
+      force: 0
+      amountOfObjectsToSpawn: 5
+      timeToSpawn: 0
+      spawnerRadius: 0
+      randomTimeToSpawn: {x: 0, y: 0}
+      timesToRepeat: 0
+      amountOfObjectsToRespawn: 0
+      repeatTimer: 0
+      randomRepeat: 0
+      randomRepeatTimer: {x: 0, y: 0}
+    - spawnObjectName: p3
+      enableSpawner: 1
+      _Map: {fileID: 0}
+      _tileMapName: 
+      _spawnObject: 0
+      targetSurfaceIndex: 1
+      layerToAvoid:
+        serializedVersion: 2
+        m_Bits: 0
+      tileSize: {x: 0, y: 0}
+      objectToSpawn: {fileID: 1149793700044170, guid: d240b982ad62278449c0a72c0fcb0f54,
+        type: 2}
+      tileToSpawn: {fileID: 0}
+      enableRandomSpawn: 0
+      RepeateOptions: 0
+      addForce: 0
+      forceMode: 0
+      force: 0
+      amountOfObjectsToSpawn: 5
+      timeToSpawn: 0
+      spawnerRadius: 0
+      randomTimeToSpawn: {x: 0, y: 0}
+      timesToRepeat: 0
+      amountOfObjectsToRespawn: 0
+      repeatTimer: 0
+      randomRepeat: 0
+      randomRepeatTimer: {x: 0, y: 0}
+    - spawnObjectName: p4
+      enableSpawner: 1
+      _Map: {fileID: 0}
+      _tileMapName: 
+      _spawnObject: 0
+      targetSurfaceIndex: 1
+      layerToAvoid:
+        serializedVersion: 2
+        m_Bits: 0
+      tileSize: {x: 0, y: 0}
+      objectToSpawn: {fileID: 1422946467268234, guid: 1f4a56ecf06f854458c4b544cc9a7187,
+        type: 2}
+      tileToSpawn: {fileID: 0}
+      enableRandomSpawn: 0
+      RepeateOptions: 0
+      addForce: 0
+      forceMode: 0
+      force: 0
+      amountOfObjectsToSpawn: 5
+      timeToSpawn: 0
+      spawnerRadius: 0
+      randomTimeToSpawn: {x: 0, y: 0}
+      timesToRepeat: 0
+      amountOfObjectsToRespawn: 0
+      repeatTimer: 0
+      randomRepeat: 0
+      randomRepeatTimer: {x: 0, y: 0}
+    - spawnObjectName: p5
+      enableSpawner: 1
+      _Map: {fileID: 0}
+      _tileMapName: 
+      _spawnObject: 0
+      targetSurfaceIndex: 1
+      layerToAvoid:
+        serializedVersion: 2
+        m_Bits: 0
+      tileSize: {x: 0, y: 0}
+      objectToSpawn: {fileID: 1403641342355374, guid: bc90a1c7720f1dd43a0d2cb13bb3bb13,
+        type: 2}
+      tileToSpawn: {fileID: 0}
+      enableRandomSpawn: 0
+      RepeateOptions: 0
+      addForce: 0
+      forceMode: 0
+      force: 0
+      amountOfObjectsToSpawn: 5
+      timeToSpawn: 0
+      spawnerRadius: 0
+      randomTimeToSpawn: {x: 0, y: 0}
+      timesToRepeat: 0
+      amountOfObjectsToRespawn: 0
+      repeatTimer: 0
+      randomRepeat: 0
+      randomRepeatTimer: {x: 0, y: 0}

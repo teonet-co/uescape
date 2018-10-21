@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: 3941776669d86e94db13533e27454044
+timeCreated: 1496258406
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: WeaponsNew_0
+    21300002: WeaponsNew_1
+    21300004: WeaponsNew_2
+    21300006: WeaponsNew_3
+    21300008: WeaponsNew_4
+    21300010: WeaponsNew_5
+    21300012: WeaponsNew_6
+    21300014: WeaponsNew_7
+    21300016: WeaponsNew_8
+    21300018: WeaponsNew_9
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 11
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WeaponsNew_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 22
+        height: 69
+      alignment: 9
+      pivot: {x: 0.475428, y: 0.37072942}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WeaponsNew_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 3
+        width: 34
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5317992, y: 0.36485353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WeaponsNew_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 7
+        width: 30
+        height: 64
+      alignment: 9
+      pivot: {x: 0.65316594, y: 0.34796023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WeaponsNew_3
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 8
+        width: 22
+        height: 58
+      alignment: 9
+      pivot: {x: 0.61057454, y: 0.29495022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WeaponsNew_4
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 6
+        width: 28
+        height: 66
+      alignment: 9
+      pivot: {x: 0.57722694, y: 0.25427923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WeaponsNew_5
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 10
+        width: 46
+        height: 69
+      alignment: 9
+      pivot: {x: 0.6586503, y: 0.42165413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WeaponsNew_6
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 6
+        width: 19
+        height: 64
+      alignment: 9
+      pivot: {x: 0.61380726, y: 0.2761638}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WeaponsNew_7
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 8
+        width: 30
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5900981, y: 0.37099627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WeaponsNew_8
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 2
+        width: 27
+        height: 67
+      alignment: 9
+      pivot: {x: 0.64015144, y: 0.34266537}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WeaponsNew_9
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 8
+        width: 20
+        height: 58
+      alignment: 9
+      pivot: {x: 0.6621765, y: 0.2809696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

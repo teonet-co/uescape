@@ -1,0 +1,465 @@
+fileFormatVersion: 2
+guid: 153ea630468b35b479a3332930109395
+timeCreated: 1502823950
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sprravenfly_0
+    21300002: Sprravenfly_1
+    21300004: Sprravenfly_2
+    21300006: Sprravenfly_3
+    21300008: Sprravenfly_4
+    21300010: Sprravenfly_5
+    21300012: Sprravenfly_6
+    21300014: Sprravenfly_7
+    21300016: Sprravenfly_8
+    21300018: Sprravenfly_9
+    21300020: Sprravenfly_10
+    21300022: Sprravenfly_11
+    21300024: Sprravenfly_12
+    21300026: Sprravenfly_13
+    21300028: Sprravenfly_14
+    21300030: Sprravenfly_15
+    21300032: Sprravenfly_16
+    21300034: Sprravenfly_17
+    21300036: Sprravenfly_18
+    21300038: Sprravenfly_19
+    21300040: Sprravenfly_20
+    21300042: Sprravenfly_21
+    21300044: Sprravenfly_22
+    21300046: Sprravenfly_23
+    21300048: Sprravenfly_24
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 2
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprravenfly_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 56
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5051297, y: 0.12857854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprravenfly_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1
+        width: 56
+        height: 58
+      alignment: 9
+      pivot: {x: 0.49487114, y: 0.33162224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprravenfly_2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1
+        width: 56
+        height: 58
+      alignment: 9
+      pivot: {x: 0.50000083, y: 0.4059065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprravenfly_3
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprravenfly_4
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1
+        width: 56
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5102588, y: 0.61885476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprravenfly_5
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1
+        width: 56
+        height: 58
+      alignment: 9
+      pivot: {x: 0.53077537, y: 0.56933194}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprravenfly_6
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1
+        width: 56
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5410336, y: 0.5247614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprravenfly_7
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1
+        width: 56
+        height: 58
+      alignment: 9
+      pivot: {x: 0.53590447, y: 0.5297137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprravenfly_8
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1
+        width: 56
+        height: 58
+      alignment: 9
+      pivot: {x: 0.54616326, y: 0.50495225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprravenfly_9
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1
+        width: 56
+        height: 58
+      alignment: 9
+      pivot: {x: 0.56667984, y: 0.56437963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprravenfly_10
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1
+        width: 56
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5307759, y: 0.5445705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprravenfly_11
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1
+        width: 56
+        height: 58
+      alignment: 9
+      pivot: {x: 0.54616326, y: 0.51980907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprravenfly_12
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1
+        width: 56
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5512924, y: 0.49504766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprravenfly_13
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1
+        width: 56
+        height: 58
+      alignment: 9
+      pivot: {x: 0.54616326, y: 0.56933194}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprravenfly_14
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1
+        width: 56
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5615507, y: 0.55447507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprravenfly_15
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1
+        width: 56
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5512924, y: 0.5297137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprravenfly_16
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1
+        width: 56
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5564216, y: 0.5148568}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprravenfly_17
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1
+        width: 56
+        height: 58
+      alignment: 9
+      pivot: {x: 0.56667984, y: 0.56933194}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprravenfly_18
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1
+        width: 56
+        height: 58
+      alignment: 9
+      pivot: {x: 0.57693917, y: 0.55447507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprravenfly_19
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprravenfly_20
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 1
+        width: 56
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5307748, y: 0.45542938}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprravenfly_21
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 1
+        width: 56
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5307748, y: 0.39104965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprravenfly_22
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 1
+        width: 56
+        height: 58
+      alignment: 9
+      pivot: {x: 0.53590614, y: 0.3118131}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprravenfly_23
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1
+        width: 56
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5410331, y: 0.20781511}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprravenfly_24
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 1
+        width: 56
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5205165, y: 0.13353083}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

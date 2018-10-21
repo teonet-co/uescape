@@ -1,0 +1,334 @@
+fileFormatVersion: 2
+guid: 94c2eab958e702046aeec6cfb48fd1a4
+timeCreated: 1511523587
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GunsTileSet_0
+    21300002: GunsTileSet_1
+    21300004: GunsTileSet_2
+    21300006: GunsTileSet_3
+    21300008: GunsTileSet_4
+    21300010: GunsTileSet_5
+    21300012: GunsTileSet_6
+    21300014: GunsTileSet_7
+    21300016: GunsTileSet_8
+    21300018: GunsTileSet_9
+    21300020: GunsTileSet_10
+    21300022: GunsTileSet_11
+    21300024: GunsTileSet_12
+    21300026: GunsTileSet_13
+    21300028: GunsTileSet_14
+    21300030: GunsTileSet_15
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 5
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GunsTileSet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 11
+        height: 40
+      alignment: 9
+      pivot: {x: 0.4398383, y: 0.37591666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunsTileSet_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 41
+        width: 18
+        height: 46
+      alignment: 9
+      pivot: {x: 0.49999988, y: 0.28420267}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunsTileSet_2
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 43
+        width: 21
+        height: 36
+      alignment: 9
+      pivot: {x: 0.68907964, y: 0.6102965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunsTileSet_3
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 44
+        width: 16
+        height: 36
+      alignment: 9
+      pivot: {x: 0.54136086, y: 0.41727775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunsTileSet_4
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 44
+        width: 16
+        height: 39
+      alignment: 9
+      pivot: {x: 0.54136086, y: 0.31334463}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunsTileSet_5
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 44
+        width: 14
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33070782}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunsTileSet_6
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 19
+        height: 53
+      alignment: 9
+      pivot: {x: 0.63932157, y: 0.20657}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunsTileSet_7
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 14
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5524009, y: 0.21363805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunsTileSet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 14
+        height: 31
+      alignment: 9
+      pivot: {x: 0.33455533, y: 0.3932618}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunsTileSet_9
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 12
+        height: 33
+      alignment: 9
+      pivot: {x: 0.44485173, y: 0.37967682}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunsTileSet_10
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 0
+        width: 12
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35962293}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunsTileSet_11
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 13
+        height: 39
+      alignment: 9
+      pivot: {x: 0.60181224, y: 0.33879763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunsTileSet_12
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 0
+        width: 21
+        height: 30
+      alignment: 9
+      pivot: {x: 0.53151304, y: 0.30146673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunsTileSet_13
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 0
+        width: 18
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26715198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunsTileSet_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 21
+        height: 43
+      alignment: 9
+      pivot: {x: 0.68907964, y: 0.576951}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunsTileSet_15
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 0
+        width: 22
+        height: 42
+      alignment: 9
+      pivot: {x: 0.18682723, y: 0.2406198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

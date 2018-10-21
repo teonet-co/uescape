@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{9DCB6AE7-2276-1098-AEC4-85E4F7553510}|">
+  <MonoDevelop.Ide.ItemProperties.uescape PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/StrangeEngine/Scripts/Weapons/LaserLauncher.cs">
+    <Files>
+      <File FileName="Assets/StrangeEngine/Scripts/Level&amp;Map/LevelGeneration.cs" Line="639" Column="1" />
+      <File FileName="Assets/StrangeEngine/Scripts/Enemy/AI_movement.cs" Line="1" Column="1" />
+      <File FileName="Assets/StrangeEngine/Scripts/Enemy/FacesPlayerNew.cs" Line="70" Column="30" />
+      <File FileName="Assets/StrangeEngine/Scripts/Weapons/MachineGun.cs" Line="30" Column="11" />
+      <File FileName="Assets/StrangeEngine/Scripts/Weapons/LaserLauncher.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

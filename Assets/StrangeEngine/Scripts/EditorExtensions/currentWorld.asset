@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e08c420979854e642bf70bdb438198a8, type: 3}
+  m_Name: currentWorld
+  m_EditorClassIdentifier: 
+  properties:
+    surfaceIndexToSpawnPlayer: 0
+    worldGenerationType: 1
+    groundTile: {fileID: 11400000, guid: b51d7d192ed08e44b97cbb0530658cea, type: 2}
+    wallTile: {fileID: 11400000, guid: aedbee05bf58cf24d94308b9c85ba452, type: 2}
+    burnedGroundTile: {fileID: 11400000, guid: 7936c1c50481f434b857fe031260021a, type: 2}
+    wallChance: 22
+    filled: 3
+    empty: 2
+    repeatCount: 3
+    tileMapSize: {x: 50, y: 50, z: 0}
+    wallsHealth: 0
+    Enemies: []
+    enemyAmount: 0
+    tileAmount: 0
+    tileSize: 1
+    maxPersuitingEnemies: 0
+    maxActiveEnemies: 0
+    chanceUp: 0
+    chanceRight: 0
+    chanceDown: 0
+    ExtraWallsX: 0
+    ExtraWallsY: 0
+    extraSurface: []
+    spawner:
+    - spawnObjectName: 1
+      enableSpawner: 1
+      _Map: {fileID: 0}
+      _tileMapName: 
+      _spawnObject: 0
+      targetSurfaceIndex: 1
+      layerToAvoid:
+        serializedVersion: 2
+        m_Bits: 0
+      tileSize: {x: 2, y: 2}
+      objectToSpawn: {fileID: 1037106101044600, guid: b88e8a87e927dfe4281fcb2c92224e23,
+        type: 2}
+      tileToSpawn: {fileID: 0}
+      enableRandomSpawn: 0
+      RepeateOptions: 0
+      addForce: 0
+      forceMode: 0
+      force: 0
+      amountOfObjectsToSpawn: 30
+      timeToSpawn: 0
+      spawnerRadius: 0
+      randomTimeToSpawn: {x: 0, y: 0}
+      timesToRepeat: 0
+      amountOfObjectsToRespawn: 0
+      repeatTimer: 0
+      randomRepeat: 0
+      randomRepeatTimer: {x: 0, y: 0}
