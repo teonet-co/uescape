@@ -147,13 +147,13 @@ namespace StrangeEngine
                         {
                             playerMovementEvents.onPlayerFlip.Invoke();
                             //Flip();
-                            sprRend.flipX = false;
+                            //sprRend.flipX = false;
                         }
                         else if (h < 0)   // if you Move Joystick it will Flip.
                         {
                             playerMovementEvents.onPlayerFlip.Invoke();
                             //Flip();
-                            sprRend.flipX = true;
+                            //sprRend.flipX = true;
                         }
                     }
                     break;
@@ -181,12 +181,12 @@ namespace StrangeEngine
                 float direction = Vector3.Dot(dir, transform.right);
                 if (direction < 0.3f)
                 {// stuff here
-                    sprRend.flipX = true;
+                    //sprRend.flipX = true;
                     playerMovementEvents.onPlayerMove.Invoke();
                 }
                 if (direction > 0.3f)
                 {
-                    sprRend.flipX = false;
+                    //sprRend.flipX = false;
                     playerMovementEvents.onPlayerMove.Invoke();
                 }
             }
@@ -202,8 +202,8 @@ namespace StrangeEngine
         /// <param name="v"></param>
         void Animating(float h, float v)
         {
-            bool walking = h != 0f || v != 0f;                              // Create a boolean that is true if either of the input axes is non-zero.
-            anim.SetBool("IsWalking", walking);                         // Tell the animator whether or not the player is walking.
+            //bool walking = h != 0f || v != 0f;                              // Create a boolean that is true if either of the input axes is non-zero.
+            //anim.SetBool("IsWalking", walking);                         // Tell the animator whether or not the player is walking.
         }
     }
 }

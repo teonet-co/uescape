@@ -121,6 +121,7 @@ namespace StrangeEngine
         //
         private void Start()
         {
+            Debug.Log("!!!!!!!!!!!!!!!!!!!");
             holder = GetComponentInParent<weaponHolder>();
             if (Application.platform == RuntimePlatform.Android || Application.platform == RuntimePlatform.IPhonePlayer)
             {
@@ -180,6 +181,7 @@ namespace StrangeEngine
         //
         void FixedUpdate()
         {
+            Debug.Log("222222222222222222");
             if (mobile)
             {
                 if (holder)
@@ -247,6 +249,7 @@ namespace StrangeEngine
         //
         void Update()
         {
+            Debug.Log("HUI");
             if (shot)
             {                                       // if bool shot is true, start shooting
                 if (holder)
@@ -272,24 +275,29 @@ namespace StrangeEngine
             }
             if (!mobile)
             {
+                Debug.Log("PIZDA0");
                 if (holder)
                 {
+                    Debug.Log("PIZDA1");
                     shootMode = holder.shootMode;
                     switch (shootMode)
                     {
                         case ShootMode.burst:
                             if (Input.GetKey(GameManager._gameManager.shootOptions.key))
                             {
+                                Debug.Log("PIZDA");
                                 Shoot();
                             }
                             break;
                         case ShootMode.single:
                             if (Input.GetKeyDown(GameManager._gameManager.shootOptions.key))
                             {
+                                Debug.Log("PIZDA33");
                                 Shoot();
                             }
                             break;
                         default:
+                            Debug.Log("PIZDA44");
                             break;
                     }
                 }
